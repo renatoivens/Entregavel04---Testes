@@ -1,0 +1,14 @@
+{
+  "name": "entregavel01",
+  "version": "1.0.0",
+  "description": "Entregavel04 - Renato Ivens Feijó",
+  "main": "Contador.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Renato Ivens Feijó",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
